@@ -1,8 +1,3 @@
-# Haruna Z. Musa
-
-📞 +2348060656130  
-📧 miemeet4@gmail.com  
-🌐 linkedin.com/in/marzool  
 
 ## INTRO
 Hello, my name is Haruna Zulqarnain Musa, a Cybersecurity enthusiast with a passion for blockchain technology. Seeking a challenging position to contribute to IT infrastructure, protect data, and drive innovation. Skilled in collaboration, problem-solving, and SIEM tools. Committed to privacy, data security, and making an impact in IT and blockchain. Thank you for reviewing my resume!
