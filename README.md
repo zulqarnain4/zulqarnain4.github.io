@@ -1,7 +1,4 @@
 
-## INTRO
-Hello, my name is Haruna Zulqarnain Musa, a Cybersecurity enthusiast with a passion for blockchain technology. Seeking a challenging position to contribute to IT infrastructure, protect data, and drive innovation. Skilled in collaboration, problem-solving, and SIEM tools. Committed to privacy, data security, and making an impact in IT and blockchain. Thank you for reviewing my resume!
-
 ## EXPERIENCE
 **Blockchain Development Mentor**  
 Company: Domineum - [domineum.io/](https://domineum.io/)  
