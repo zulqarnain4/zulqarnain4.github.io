@@ -1,9 +1,13 @@
-
-# Specify the theme to use
+title: Zulqarnain Haruna
+logo: "/4417000_1677152354-fotor-20230613161458.png"
+description: >
+  <br>
+  Cybersecurity Analyst | Blockchain Enthusiast
+  <br>
+  <a href="https://www.linkedin.com/in/marzool//">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:zulqarnainharun4@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 theme: jekyll-theme-minimal
-
-# Customize the title of your site
-title: Haruna Zulqarnain
-
-# Specify the description of your site
-description: Cybersecurity Analyst
