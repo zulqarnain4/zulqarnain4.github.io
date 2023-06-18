@@ -10,7 +10,7 @@ Company: Domineum - [domineum.io/](https://domineum.io/)
 
 **Chief Technology Officer**  
 Company: Brilliant Esystems - [brilliant.ng/](https://brilliant.ng/)  
-01/2020 - 02/2022
+01/2019 - 02/2022
 
 - Provide IT consulting and support to ensure the smooth operation of the organization's IT infrastructure.
 - Implemented and adapted IT solutions to enhance operational efficiency and support strategic goals.
