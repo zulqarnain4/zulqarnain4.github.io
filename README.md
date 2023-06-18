@@ -8,7 +8,7 @@ Company: Domineum - [domineum.io/](https://domineum.io/)
 - Skilled in fostering open and clear communication channels, actively listening to mentees' needs, and providing constructive feedback to enhance their communication skills in the context of blockchain development.
 - Skilled in conducting comprehensive research and analysis in the field of blockchain, assisting mentees in gathering relevant information, staying up-to-date with the latest advancements, and making informed decisions based on their research findings.
 
-**Chief Technology Officer**  
+**Information System Security Officer**  
 Company: Brilliant Esystems - [brilliant.ng/](https://brilliant.ng/)  
 01/2019 - 02/2022
 
